@@ -1,2 +1,2 @@
-# Gallows2
+# Testor
 Mike Testor's repository
